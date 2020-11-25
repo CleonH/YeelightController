@@ -1,0 +1,22 @@
+# iOS Shortcut support SSH command
+
+<html>
+<head>
+    <title>YeeLight-On (openwrt)</title>
+    <meta name="apple-itunes-app" content="app-id=99999999, app-argument=shortcuts://shortcuts/0">
+    <meta property="og:title" content="YeeLight-On (openwrt)">
+    <meta property="og:description" content="">
+    <meta property="al:ios:url" content="shortcuts://shortcuts/0"/>
+    <meta property="al:ios:app_store_id" content="99999999"/>
+    <meta property="al:ios:app_name" content="Shortcuts"/>
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="YeeLight-On (openwrt)">
+    <meta name="twitter:description" content="">
+
+    <meta property="og:image" content="/shortcuts/api/icons/0">
+    <meta name="twitter:image" content="/shortcuts/api/icons/0">
+
+</head>
+<body>
+</body>
+</html>
